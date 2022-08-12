@@ -52,7 +52,7 @@ export default {
   name: 'App',
   data() {
     return {
-      apiUrl: 'http://localhost:8001',
+      apiUrl: 'http://vue-crub-api.jennywebservices.xyz/',
       showFormModal: false,
       showDetailsModal: false,
       modalType: '',
