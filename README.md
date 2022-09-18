@@ -1,10 +1,7 @@
 # Vue User CRUD Project
 
 ## Project URL
-- http://vue-crub.jennywebservices.xyz/
-
-## Project API
-http://vue-crub-api.jennywebservices.xyz/
+- http://vue-crub.jennypuichingchung.com/
 
 ## Project setup
 ```
