@@ -4,11 +4,10 @@
       <div class="wrapper">
         <div class="navbar-brand">
           <div class="navbar-item">
-            <h1>Advanced PHP Project - User CRUD</h1>
+            <h1>Vue - User CRUD</h1>
           </div>
         </div>
       </div>
-      
     </nav>
     <div class="container is-max-desktop">
 
@@ -52,7 +51,7 @@ export default {
   name: 'App',
   data() {
     return {
-      apiUrl: 'http://vue-crub-api.jennywebservices.xyz/',
+      apiUrl: 'http://user-api.jennypuichingchung.com/',
       showFormModal: false,
       showDetailsModal: false,
       modalType: '',
