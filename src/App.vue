@@ -51,7 +51,7 @@ export default {
   name: 'App',
   data() {
     return {
-      apiUrl: 'http://user-api.jennypuichingchung.com/',
+      apiUrl: 'https://user-api.jennypuichingchung.com/',
       showFormModal: false,
       showDetailsModal: false,
       modalType: '',
